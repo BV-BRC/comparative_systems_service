@@ -1,0 +1,12 @@
+{
+  "output_path": "/olson@patricbrc.org/PATRIC-QA/applications/App-ComparativeSystems",
+  "genome_ids": [
+    "1313.57885"
+  ],
+  "output_file": "workshop_amoxicillin_and_azithromycin_resistant",
+  "genome_groups": [
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-ComparativeSystems/Amox susceptible",
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-ComparativeSystems/Amoxicillin Resistant",
+    "/olson@patricbrc.org/PATRIC-QA/applications/App-ComparativeSystems/Azithromycin Resistant"
+  ]
+}
